@@ -1,9 +1,5 @@
 # Reverse Engineering Projects
 
-This repository contains two projects related to **reverse engineering and malware analysis**, covering static and dynamic analysis techniques.
-
----
-
 ## Project 1: Malware Analysis and Reverse Engineering
 [Reverse Project 1](revproject1.pdf)
 
